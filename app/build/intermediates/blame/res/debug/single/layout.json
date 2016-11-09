@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/malin/malin_demo/Sample/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/malin/malin_demo/Sample/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/malin/malin_demo/Sample/app/build/intermediates/res/merged/debug/layout/scroll_content.xml",
+        "source": "/home/malin/malin_demo/Sample/app/src/main/res/layout/scroll_content.xml"
+    },
+    {
+        "merged": "/home/malin/malin_demo/Sample/app/build/intermediates/res/merged/debug/layout/paomadeng.xml",
+        "source": "/home/malin/malin_demo/Sample/app/src/main/res/layout/paomadeng.xml"
+    }
+]

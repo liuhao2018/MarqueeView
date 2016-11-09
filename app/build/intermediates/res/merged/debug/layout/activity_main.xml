@@ -1,0 +1,48 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+
+    <LinearLayout
+        android:layout_width="50dp"
+        android:layout_height="500dp"
+        android:layout_gravity="right"
+        android:background="#FF0000"
+        android:gravity="center_horizontal"
+        android:orientation="vertical">
+
+        <ProgressBar
+            android:id="@+id/vertical_progressbar"
+            style="@style/Widget.ProgressBar.Vertical"
+            android:layout_width="11.7dip"
+            android:layout_height="110.7dip"
+            android:layout_gravity="center_horizontal"
+            android:max="100"
+            android:maxWidth="7.7dip"
+            android:minWidth="7.7dip"
+            android:progress="50" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <com.halzhang.android.verticalprogressbar.VerticalTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="10dp"
+                android:rotation="180"
+                android:text="123"
+                android:textColor="#828389" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:src="@drawable/star" />
+        </LinearLayout>
+    </LinearLayout>
+
+
+</FrameLayout>

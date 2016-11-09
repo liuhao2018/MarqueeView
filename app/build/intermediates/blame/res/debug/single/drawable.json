@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/malin/malin_demo/Sample/app/build/intermediates/res/merged/debug/drawable/aaa.xml",
+        "source": "/home/malin/malin_demo/Sample/app/src/main/res/drawable/aaa.xml"
+    },
+    {
+        "merged": "/home/malin/malin_demo/Sample/app/build/intermediates/res/merged/debug/drawable/shape_progressbar_mini.xml",
+        "source": "/home/malin/malin_demo/Sample/app/src/main/res/drawable/shape_progressbar_mini.xml"
+    },
+    {
+        "merged": "/home/malin/malin_demo/Sample/app/build/intermediates/res/merged/debug/drawable/aaaavv.xml",
+        "source": "/home/malin/malin_demo/Sample/app/src/main/res/drawable/aaaavv.xml"
+    },
+    {
+        "merged": "/home/malin/malin_demo/Sample/app/build/intermediates/res/merged/debug/drawable/xy_live_room_progressbar_bg.xml",
+        "source": "/home/malin/malin_demo/Sample/app/src/main/res/drawable/xy_live_room_progressbar_bg.xml"
+    },
+    {
+        "merged": "/home/malin/malin_demo/Sample/app/build/intermediates/res/merged/debug/drawable/shape_progressbar_bg.xml",
+        "source": "/home/malin/malin_demo/Sample/app/src/main/res/drawable/shape_progressbar_bg.xml"
+    }
+]
